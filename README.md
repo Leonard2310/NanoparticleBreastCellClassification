@@ -53,7 +53,7 @@ The solution achieved an accuracy of 97.6%.
 ## Contributions
 We welcome contributions from the community. Feel free to fork this repository, make your changes, and submit a pull request. Please ensure that your contributions are well-documented and tested.
 
-## Authors
+## Author
 - [Leonardo Catello](https://github.com/Leonard2310)
 
 ## Acknowledgements
