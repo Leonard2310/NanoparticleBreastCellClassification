@@ -17,5 +17,4 @@ The dataset provided by the DICMAPI research group includes multichannel images 
 The solution achieved an accuracy of 97.6%.
 
 ## Acknowledgements
-We thank Prof. Mariano Sirignano and Prof. Valeria Panzetta from DICMAPI (Dipartimento di Ingegneria Chimica, dei Materiali e della Produzione Industriale) for providing the task and the data.
-For further inquiries, please contact [DICMAPI](mailto:dicmapi@example.com).
+We thank Prof. Mariano Sirignano and Prof. Valeria Panzetta from DICMAPI (Dipartimento di Ingegneria Chimica, dei Materiali e della Produzione Industriale - University of Naples Federico II) for providing the task and the data.
