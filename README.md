@@ -1,7 +1,7 @@
 # Breast Cell Classification Project
 
 ## Description
-This project involves predicting the class of each breast cell (benign/malignant) after exposure to carbon nanoparticles. The objective is to determine whether nanoparticle exposure affects the recognition of tumor tissue. Participants are tasked with developing one or more prediction models using data analysis and machine learning techniques. The performance metric to optimize is Accuracy.
+This project involves predicting the class of each breast cell (benign/malignant) after exposure to carbon nanoparticles. The objective is to determine whether nanoparticle exposure affects the recognition of tumor tissue. 
 
 ## Evaluation
 The evaluation metric for this competition is Accuracy, which is calculated as the percentage of correctly classified instances with respect to the total evaluated instances.
