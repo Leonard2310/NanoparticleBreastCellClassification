@@ -1,4 +1,4 @@
-# Breast Cell Classification Project
+# Nanoparticle Breast Cell Classification**
 
 ## Description
 This project involves predicting the class of each breast cell (benign/malignant) after exposure to carbon nanoparticles. The objective is to determine whether nanoparticle exposure affects the recognition of tumor tissue. 
